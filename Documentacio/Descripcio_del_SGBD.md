@@ -1,3 +1,4 @@
+# La historia de MS SQL SERVER
 Descriure la historia de la base de dades escollida, i qui dóna suport.
 La història de SQL Server: Sybase va crear el primer sistema de gestió de bases de dades relacionals (RDBMS) basat en SQL (Structured Query Language) Al 1980. Després, el 1989, Microsoft va adquirir la llicència de Sybase i va presentar la seva pròpia versió de SQL Server al 1993.
 EVOLUCIÓ: SQL Server ha experimentat nombroses actualitzacions i millores. Cada nova versió ha portat innovacions significatives en rendiment, seguretat i funcionalitat. <br>
