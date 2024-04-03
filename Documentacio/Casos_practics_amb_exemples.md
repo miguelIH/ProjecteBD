@@ -1,3 +1,4 @@
+# Exemples d'us i Casos practics
 Es la opció preferida de alguns degut al bon rendiment i de l’estabilitat del servidor.
 <br>
 -Una de les característiques que agrada més es que es natiu de Windows i està integrat a l’ecosistema de Windows. <br>
