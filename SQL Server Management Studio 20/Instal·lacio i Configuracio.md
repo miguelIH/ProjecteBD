@@ -59,11 +59,23 @@ Com queda
 
 ![Imatge_Taula](CONFIGURACIO/13.jpg)
 
-- PAU QUE PONGO
+#Encriptacio
+- 
 
 ![Imatge_Cifrat](CONFIGURACIO/CIFRADO1.jpg)
 
-- PAU QUE PONGO
+- 
 
 ![Imatge_Cifrat2](CONFIGURACIO/CIFRADO2.jpg)
 
+#Creacio d'usuaris
+
+- 
+![Imatge_Cifrat](CONFIGURACIO/USUARI1.jpg)
+
+-
+![Imatge_Cifrat](CONFIGURACIO/USUARI2.jpg)
+-
+![Imatge_Cifrat](CONFIGURACIO/USUARI3.jpg)
+-
+![Imatge_Cifrat](CONFIGURACIO/USUARI4.jpg)
