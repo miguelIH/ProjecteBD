@@ -45,8 +45,10 @@ curl https://packages.microsoft.com/config/ubuntu/22.04/prod.list | sudo tee /et
 
 sudo apt-get update
 
-
+```
 sudo apt-get install -y mssql-tools18 unixodbc-dev
+```
+![comanda10](Imatges/10.jpg)
 
 ```
 sudo /opt/mssql/bin/mssql-conf set sqlagent.enabled true
