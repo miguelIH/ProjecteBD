@@ -28,11 +28,14 @@ sudo apt-get install -y mssql-server
 ![comanda6](Imatges/6.jpg)
 <br>
 
+```
 sudo ACCEPT_EULA='Y' MSSQL_PID='Developer' MSSQL_SA_PASSWORD='WeNeedABetterPassword!!!1' MSSQL_TCP_PORT=1433 /opt/mssql/bin/mssql-conf setup
-
-
+```
+![comanda7](Imatges/7.jpg)
+```
 systemctl status mssql-server --no-pager
-
+```
+![comanda8](Imatges/8.jpg)
 
 curl https://packages.microsoft.com/config/ubuntu/22.04/prod.list | sudo tee /etc/apt/sources.list.d/ms-prod.list
 
