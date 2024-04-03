@@ -15,6 +15,7 @@ sudo cp /usr/share/keyrings/microsoft-prod.gpg /etc/apt/trusted.gpg.d/
 ```
 curl -fsSL https://packages.microsoft.com/config/ubuntu/22.04/mssql-server-2022.list | sudo tee /etc/apt/sources.list.d/mssql-server-2022.list
 ```
+
 ![comanda4](Imatges/4.jpg)
 <br>
 ```
@@ -41,7 +42,7 @@ systemctl status mssql-server --no-pager
 ```
 curl https://packages.microsoft.com/config/ubuntu/22.04/prod.list | sudo tee /etc/apt/sources.list.d/ms-prod.list
 ````
-
+![comanda16](Imatges/16.jpg)
 ```
 sudo apt-get update
 ```
