@@ -60,11 +60,11 @@ Com queda
 ![Imatge_Taula](CONFIGURACIO/13.jpg)
 
 # Encriptacio
-- 
+- Aqui hem creat la clau simetrica per encriptar i desencriptar informació
 
 ![Imatge_Cifrat](CONFIGURACIO/CIFRADO1.jpg)
 
-- 
+- Aqui podem veure la comprovació
 
 ![Imatge_Cifrat2](CONFIGURACIO/CIFRADO2.jpg)
 
