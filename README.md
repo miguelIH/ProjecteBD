@@ -4,5 +4,3 @@
 3. [Instal·lacio i Configuracio de la SGBD](<Documentacio/Instal·lacio_i_Configuracio_de_la_SGBD.md>)
 4. [Respon o Comprova](<Documentacio/Respon_o_Comprova.md>)
 5. [Connexio i modificacio](<SQL Server Management Studio 20/Instal·lacio i Configuracio.md>)
-
-![fotologo](Imatges/logo.jpg)
