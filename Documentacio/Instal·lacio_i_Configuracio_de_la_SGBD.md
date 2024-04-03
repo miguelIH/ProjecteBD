@@ -41,21 +41,29 @@ systemctl status mssql-server --no-pager
 ```
 curl https://packages.microsoft.com/config/ubuntu/22.04/prod.list | sudo tee /etc/apt/sources.list.d/ms-prod.list
 ````
-![comanda9](Imatges/3.jpg)
 
+```
 sudo apt-get update
-
-
+```
+![comanda9](Imatges/9.jpg)
+```
 sudo apt-get install -y mssql-tools18 unixodbc-dev
+```
+![comanda10](Imatges/10.jpg)
 
-
+```
 sudo /opt/mssql/bin/mssql-conf set sqlagent.enabled true
+```
+![comanda11](Imatges/11.jpg)
 
-
+```
 sudo systemctl restart mssql-server
+```
+![comanda12](Imatges/12.jpg)
 
-
+```
 sudo apt-get install -y net-tools
-
+````
+![comanda13](Imatges/13.jpg)
 
 
