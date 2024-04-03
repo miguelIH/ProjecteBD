@@ -45,16 +45,16 @@ Aqui veiem com ha quedat
 
 - Despres hem realitzat uns 'UPDATES' 
 
-![Imatge_Taula](CONFIGURACIO/9.jpg)
+![Imatge_Taula](CONFIGURACIO/10.jpg)
 
 Comprovació
 
-![Imatge_Taula](CONFIGURACIO/10.jpg)
+![Imatge_Taula](CONFIGURACIO/11.jpg)
 
 - Per ultim fem uns delete i seguidament mirem com ha quedat 
 
-![Imatge_Taula](CONFIGURACIO/11.jpg)
+![Imatge_Taula](CONFIGURACIO/12.jpg)
 
 Com queda
 
-![Imatge_Taula](CONFIGURACIO/12.jpg)
+![Imatge_Taula](CONFIGURACIO/13.jpg)
