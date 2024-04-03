@@ -25,7 +25,7 @@ sudo apt-get update
 ```
 sudo apt-get install -y mssql-server
 ```
-![comanda6](Imatges/6.jpg)
+![comanda6](Imatges/update.jpg)
 <br>
 
 ```
