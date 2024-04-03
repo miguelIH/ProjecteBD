@@ -32,7 +32,7 @@ sudo apt-get install -y mssql-server
 ```
 sudo ACCEPT_EULA='Y' MSSQL_PID='Developer' MSSQL_SA_PASSWORD='WeNeedABetterPassword!!!1' MSSQL_TCP_PORT=1433 /opt/mssql/bin/mssql-conf setup
 ```
-![comanda7](Imatges/7.jpg)
+![comanda17](Imatges/17.jpg)
 <br>
 ```
 systemctl status mssql-server --no-pager
