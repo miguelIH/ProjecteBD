@@ -15,6 +15,7 @@ ssh-keygen -t rsa -b 4096 -f /var/opt/mssql/secrets/oso
 <br>
 Ara editem el fitxer "mssql.conf" ha de quedar així. Hem modificat els apartats de filelocation i network per tal que la base de dades es vinculi al certificat. <br>
 ![aa3](Imatges/a3.png)
+<br>
 Finalment, configurem les còpies de seguretat
 ```
 mysqldump -u sa -p WeNeedABetterPassword!!!1  botigainformatica > /var/opt/mssql/copies_de_seguretat/backupchuleta.sql
