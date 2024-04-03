@@ -77,5 +77,4 @@ Com queda
 ![Imatge_Cifrat2](CONFIGURACIO/USUARI2.jpg)
 -
 ![Imatge_Cifrat3](CONFIGURACIO/USUARI3.jpg)
--
-![Imatge_Cifrat4](CONFIGURACIO/USUARI4.jpg)
+
