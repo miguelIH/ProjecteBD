@@ -27,5 +27,34 @@ Posem la informacio de Botiga Informatica
 
 
 Una vegada fet aixo manipularem una mica la base de dades.
-- Fem un SELECT per poder veure la taula 'Producto'. 
+- Fem un SELECT per poder veure la informacio de la taula 'Producto'. 
+
 ![Imatge_Taula](CONFIGURACIO/6.jpg)
+
+- Fem un altre SELECT una mica més elaborat per veure la informació de les taules 'Productes', 'Fabricants' i 'Preus'.
+
+![Imatge_Taula](CONFIGURACIO/7.jpg)
+
+- Una vegada fet aixo fem un insert de la marca 'Apple' a la taula producte.
+
+![Imatge_Taula](CONFIGURACIO/8.jpg)
+
+Aqui veiem com ha quedat
+
+![Imatge_Taula](CONFIGURACIO/9.jpg)
+
+- Despres hem realitzat uns 'UPDATES' 
+
+![Imatge_Taula](CONFIGURACIO/9.jpg)
+
+Comprovació
+
+![Imatge_Taula](CONFIGURACIO/10.jpg)
+
+- Per ultim fem uns delete i seguidament mirem com ha quedat 
+
+![Imatge_Taula](CONFIGURACIO/11.jpg)
+
+Com queda
+
+![Imatge_Taula](CONFIGURACIO/12.jpg)
