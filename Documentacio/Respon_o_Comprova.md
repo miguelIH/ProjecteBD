@@ -3,13 +3,6 @@
 1.  Un cop realitzada la instal·lació realitza una securització de la mateixa. Quin programa realitza aquesta tasca? Realitza una securització de la instal·lació.
 <br>
 ![Imatgerespon1](Imatges/Respon1.png)
-<br>
-![Imatgerespon2](Imatges/Respon2.png)
-<br>
-![Imatgerespon3](Imatges/Respon3.png)
-<br>
-![Imatgerespon4](Imatges/Respon4.png)
-<br>
 2.  Quines són les instruccions per arrancar / verificar status / apagar servei de la base de dades del SBGB escollit a nivell sistema operatiu? <br>
       Arrancar el servei: sudo systemctl start mysql-server.service <br>
       Verificar stat: sudo systemctl status mysql-server.service <br>
