@@ -1,5 +1,5 @@
 # Index
-1. [Casos practics amb exemples](<Documentacio/Imatges/Casos pratics amb exemples.md>)
+1. [Casos practics amb exemples](<Documentacio/Imatges/Casos_pratics_amb_exemples.md>)
 2. [Instal·lació d'Apache Cassandra sobre Linux](<INSTAL·LACIO I CONFIGURACIÓ/INSTAL·LACIÓ MAQUINA/local_machine_install.md>)
 3. [Instal·lació d'Apache Cassandra sobre Docker](<INSTAL·LACIO I CONFIGURACIÓ/INSTAL·LACIÓ DOCKER/local-docker_install.md>)
 4. [Instal·lació d'Apache Cassandra sobre Docker Compose](<INSTAL·LACIO I CONFIGURACIÓ/README.md>)
