@@ -1,9 +1,9 @@
 1.  Un cop realitzada la instal·lació realitza una securització de la mateixa. Quin programa realitza aquesta tasca? Realitza una securització de la instal·lació.
 
 2.  Quines són les instruccions per arrancar / verificar status / apagar servei de la base de dades del SBGB escollit a nivell sistema operatiu? <br>
-      Arrancar el servei: sudo systemctl start mysql-server.service
-      Verificar stat: sudo systemctl status mysql-server.service
-      Apagar el servei: sudo systemctl stop mysql-server.service
+      Arrancar el servei: sudo systemctl start mysql-server.service <br>
+      Verificar stat: sudo systemctl status mysql-server.service <br>
+      Apagar el servei: sudo systemctl stop mysql-server.service <br>
 
 3.  A on es troba i quin nom rep el fitxer de configuració del SGBD escollit?
       /var/opt/mssql/mssql.conf
