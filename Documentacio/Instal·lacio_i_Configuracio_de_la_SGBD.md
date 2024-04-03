@@ -45,14 +45,20 @@ curl https://packages.microsoft.com/config/ubuntu/22.04/prod.list | sudo tee /et
 
 sudo apt-get update
 
-
+```
 sudo apt-get install -y mssql-tools18 unixodbc-dev
+```
+![comanda10](Imatges/10.jpg)
 
-
+```
 sudo /opt/mssql/bin/mssql-conf set sqlagent.enabled true
+```
+![comanda11](Imatges/11.jpg)
 
-
+```
 sudo systemctl restart mssql-server
+```
+![comanda12](Imatges/12.jpg)
 
 ```
 sudo apt-get install -y net-tools
