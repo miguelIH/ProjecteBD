@@ -9,4 +9,4 @@ Versions de la solució (Community Edition, Enterprise Edition, cloud...)
 En el nostre cas, escollirem o bé la versió Express , ja que és totalment gratuïtes.
 Comparatiu amb altres bases de dades del seu segment.
 
-IMATGE TAULA
+![Imatge_Taula](Imatges_SGBD/1280px-Taula.png)
