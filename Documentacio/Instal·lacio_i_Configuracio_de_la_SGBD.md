@@ -36,7 +36,7 @@ sudo ACCEPT_EULA='Y' MSSQL_PID='Developer' MSSQL_SA_PASSWORD='WeNeedABetterPassw
 ```
 systemctl status mssql-server --no-pager
 ```
-![comanda8](Imatges/8.jpg)
+![comanda15](Imatges/15.jpg)
 <br>
 ```
 curl https://packages.microsoft.com/config/ubuntu/22.04/prod.list | sudo tee /etc/apt/sources.list.d/ms-prod.list
