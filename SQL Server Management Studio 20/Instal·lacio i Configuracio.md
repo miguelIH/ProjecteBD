@@ -59,7 +59,7 @@ Com queda
 
 ![Imatge_Taula](CONFIGURACIO/13.jpg)
 
-#Encriptacio
+# Encriptacio
 - 
 
 ![Imatge_Cifrat](CONFIGURACIO/CIFRADO1.jpg)
@@ -68,7 +68,7 @@ Com queda
 
 ![Imatge_Cifrat2](CONFIGURACIO/CIFRADO2.jpg)
 
-#Creacio d'usuaris
+# Creacio d'usuaris
 
 - 
 ![Imatge_Cifrat1](CONFIGURACIO/USUARI1.jpg)
