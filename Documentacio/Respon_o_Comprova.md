@@ -21,6 +21,7 @@ Finalment, configurem les còpies de seguretat
 mysqldump -u sa -p WeNeedABetterPassword!!!1  botigainformatica > /var/opt/mssql/copies_de_seguretat/backupchuleta.sql
 ```
 ![aa4](Imatges/a4.png)
+<br>
 2.  Quines són les instruccions per arrancar / verificar status / apagar servei de la base de dades del SBGB escollit a nivell sistema operatiu? <br>
       Arrancar el servei: sudo systemctl start mysql-server.service <br>
       Verificar stat: sudo systemctl status mysql-server.service <br>
