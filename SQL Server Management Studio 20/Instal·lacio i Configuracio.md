@@ -69,17 +69,13 @@ Com queda
 ![Imatge_Cifrat2](CONFIGURACIO/CIFRADO2.jpg)
 
 # Creacio d'usuaris
-- Creem un usuari amb login, i amb el permís d'accedir a l'esquema dbo <br>
-<br>
+- Creem un usuari amb login, i amb el permís d'accedir a l'esquema dbo
 ![Imatge_Cifrat1](CONFIGURACIO/USUARI1.jpg)
 - Comprovem que s'ha creat l'usuari
-<br>
 ![Imatge_Cifrat2](CONFIGURACIO/USUARI2.jpg)
 - Afegim l'usuari base al grup db_datareader
-<br>
 ![Imatge_Cifrat3](CONFIGURACIO/USUARI3.jpg)
 - Repetim proccés amb l'usuari db_datawriter 
-<br>
 ![Imatge_Cifrat4](CONFIGURACIO/USUARI4.jpg)
 
 
