@@ -1,3 +1,5 @@
+# Instal·lació i Configuració des d'un Ubuntu 22.04
+
 ```
 sudo apt-get install curl 
 ```
