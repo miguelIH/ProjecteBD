@@ -17,10 +17,15 @@ Aqu√≠ podrem veure com poder connectar-nos a la base de dades escollida i despr√
 
 ![Imatge_Taula](CONFIGURACIO/3.jpg)
 
-- Posem la informacio de Botiga Informatica
+Posem la informacio de Botiga Informatica
 
 ![Imatge_Taula](CONFIGURACIO/4.jpg)
 
-- Posem la informacio de Botiga Informatica
+Posem la informacio de Botiga Informatica
 
 ![Imatge_Taula](CONFIGURACIO/5.jpg)
+
+
+Una vegada fet aixo manipularem una mica la base de dades.
+- Fem un SELECT per poder veure la taula 'Producto'. 
+![Imatge_Taula](CONFIGURACIO/6.jpg)
