@@ -1,6 +1,6 @@
 # Verifica i respon
 
-1.  Un cop realitzada la instal·lació realitza una securització de la mateixa. Quin programa realitza aquesta tasca? Realitza una securització de la instal·lació.
+1.  Un cop realitzada la instal·lació realitza una securització de la mateixa. Quin programa realitza aquesta tasca? Realitza una securització de la instal·lació. <br>
 ![Estoyhastaloshuevos](Imatges/a1.png)
 ![Estoyhastaloshuevos2](Imatges/a2.png)
 ![Estoyhastaloshuevos3](Imatges/a3.png)
