@@ -4,7 +4,7 @@ sudo apt-get install curl
 <br>
 curl -fsSL https://packages.microsoft.com/keys/microsoft.asc | sudo gpg --dearmor -o /usr/share/keyrings/microsoft-prod.gpg
 
-
+![comanda2](Imatges/2.jpg)
 sudo cp /usr/share/keyrings/microsoft-prod.gpg /etc/apt/trusted.gpg.d/
 
 
