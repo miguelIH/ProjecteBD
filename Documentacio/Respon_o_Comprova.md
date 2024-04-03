@@ -5,20 +5,20 @@ Primer de tot instal·lem el servei OpenSSH:
 ```
 sudo apt install openssh-server
 ```
-![Estoyhastaloshuevos](Imatges/a1.png)
+![aa1](Imatges/a1.png)
 Una vegada està instal·lat, creem el certificat:  <br>
 <br>
 ```
 ssh-keygen -t rsa -b 4096 -f /var/opt/mssql/secrets/oso
 ```
-![Estoyhastaloshuevos2](Imatges/a2.png)
+![aa2](Imatges/a2.png)
 Ara editem el fitxer "mssql.conf" ha de quedar així. Hem modificat els apartats de filelocation i network per tal que la base de dades es vinculi al certificat.
 ![Estoyhastaloshuevos3](Imatges/a3.png)
 Finalment, configurem les còpies de seguretat
 ```
 mysqldump -u sa -p WeNeedABetterPassword!!!1  botigainformatica > /var/opt/mssql/copies_de_seguretat/backupchuleta.sql
 ```
-![Estoyhastaloshuevos4](Imatges/a4.png)
+![aa2](Imatges/a4.png)
 3.  Quines són les instruccions per arrancar / verificar status / apagar servei de la base de dades del SBGB escollit a nivell sistema operatiu? <br>
       Arrancar el servei: sudo systemctl start mysql-server.service <br>
       Verificar stat: sudo systemctl status mysql-server.service <br>
