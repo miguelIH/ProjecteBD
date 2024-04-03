@@ -13,9 +13,3 @@ En el nostre cas, escollirem la versió Express , ja que és totalment gratuïta
 Comparatiu amb altres bases de dades del seu segment.
 
 ![Imatge_Taula](Imatges/Taula.png)
-
-
-![Estoyhastaloshuevos](Imatges/a1.png)
-![Estoyhastaloshuevos2](Imatges/a2.png)
-![Estoyhastaloshuevos3](Imatges/a3.png)
-![Estoyhastaloshuevos4](Imatges/a4.png)
