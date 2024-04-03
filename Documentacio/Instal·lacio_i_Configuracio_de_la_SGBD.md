@@ -42,8 +42,9 @@ systemctl status mssql-server --no-pager
 curl https://packages.microsoft.com/config/ubuntu/22.04/prod.list | sudo tee /etc/apt/sources.list.d/ms-prod.list
 ````
 
-
+```
 sudo apt-get update
+```
 
 ```
 sudo apt-get install -y mssql-tools18 unixodbc-dev
