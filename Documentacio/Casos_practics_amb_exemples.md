@@ -16,3 +16,6 @@ Comparatiu amb altres bases de dades del seu segment.
 
 
 ![Estoyhastaloshuevos](Imatges/a1.png)
+![Estoyhastaloshuevos2](Imatges/a2.png)
+![Estoyhastaloshuevos3](Imatges/a3.png)
+![Estoyhastaloshuevos4](Imatges/a4.png)
