@@ -5,13 +5,13 @@ Primer de tot instal·lem el servei OpenSSH:
 ```
 sudo apt install openssh-server
 ```
-![aa1](Imatges/a1.png)
+![aa1](Imatges/a1.png) <br>
 Una vegada està instal·lat, creem el certificat:  <br>
 <br>
 ```
 ssh-keygen -t rsa -b 4096 -f /var/opt/mssql/secrets/oso
 ```
-![aa2](Imatges/a2.png)
+![aa2](Imatges/a2.png) <br>
 <br>
 Ara editem el fitxer "mssql.conf" ha de quedar així. Hem modificat els apartats de filelocation i network per tal que la base de dades es vinculi al certificat.
 ![Estoyhastaloshuevos3](Imatges/a3.png)
