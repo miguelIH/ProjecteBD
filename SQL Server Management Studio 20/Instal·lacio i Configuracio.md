@@ -58,3 +58,12 @@ Comprovació
 Com queda
 
 ![Imatge_Taula](CONFIGURACIO/13.jpg)
+
+- PAU QUE PONGO
+
+![Imatge_Cifrat](CONFIGURACIO/CIFRADO1.jpg)
+
+- PAU QUE PONGO
+
+![Imatge_Cifrat2](CONFIGURACIO/CIFRADO2.jpg)
+
