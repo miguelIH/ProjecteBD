@@ -4,6 +4,8 @@ EVOLUCIÓ: SQL Server ha experimentat nombroses actualitzacions i millores. Cada
 PRIMERA VERSIÓ: SQL Server 1.0 - Aquesta va ser la primera versió  després que Microsoft compres la llicència de Sybase. Ofereix característiques bàsiques d'un sistema de gestió de bases de dades relacionals, utilitzant SQL com a llenguatge de consulta. <br>
 ![Versio1](Imatges_SGBD/v1.png) <br>
 
+![CassandraKeyspace_img](imageskeyspace.png)
+
 
 SEGONA VERSIÓ: SQL Server 4.21a (1993): Aquesta versió va marcar el llançament   inicial de SQL Server sota la marca de Microsoft. Va introduir millores en comparació amb la versió anterior de Sybase, com per exemple una millor compatibilitat amb Windows i suport per a procediments emmagatzemats i desencadenadors.<br>
 ![Versio2](Imatges_SGBD/v2.png) <br>
