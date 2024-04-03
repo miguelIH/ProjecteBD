@@ -5,9 +5,9 @@ Primer de tot instal·lem el servei OpenSSH:
 ```
 sudo apt install openssh-server
 ```
-![aa1](Imatges/a1.png) <br>
-Una vegada està instal·lat, creem el certificat:  <br>
+![aa1](Imatges/a1.png) 
 <br>
+Una vegada està instal·lat, creem el certificat:  <br>
 ```
 ssh-keygen -t rsa -b 4096 -f /var/opt/mssql/secrets/oso
 ```
