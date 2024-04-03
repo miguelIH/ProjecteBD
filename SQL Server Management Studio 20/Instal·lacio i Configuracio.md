@@ -71,11 +71,11 @@ Com queda
 #Creacio d'usuaris
 
 - 
-![Imatge_Cifrat](CONFIGURACIO/USUARI1.jpg)
+![Imatge_Cifrat1](CONFIGURACIO/USUARI1.jpg)
 
 -
-![Imatge_Cifrat](CONFIGURACIO/USUARI2.jpg)
+![Imatge_Cifrat2](CONFIGURACIO/USUARI2.jpg)
 -
-![Imatge_Cifrat](CONFIGURACIO/USUARI3.jpg)
+![Imatge_Cifrat3](CONFIGURACIO/USUARI3.jpg)
 -
-![Imatge_Cifrat](CONFIGURACIO/USUARI4.jpg)
+![Imatge_Cifrat4](CONFIGURACIO/USUARI4.jpg)
