@@ -15,7 +15,7 @@
       Mysql server escolta per el port 1443.
       Mitjançant aquesta comanda “sudo nano /var/opt/mssql/mssql.conf”, podem veure per quin port està escoltant el nostre servidor, desde aquest arxiu tenim que buscar l’apartat dels ports i canviar el port per el qual està escoltant. Un cop canviat tenim que guardar l’arxiu i reiniciar el servei amb aquesta comanda “sudo systemctl restart mysql-server.service”.
 
-IMATGEEEEE
+![Imatgeconfig](Imatges/ResponComprova.png)
 
 6. Quin tipus de SGBD? (Relacional, no relacional, graf, document,....)
 	MySQL Server es un sgbd relacional.
