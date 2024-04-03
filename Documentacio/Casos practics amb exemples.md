@@ -1,4 +1,3 @@
-```
 Es la opció preferida de alguns degut al bon rendiment i de l’estabilitat del servidor.
 -Una de les característiques que agrada més es que es natiu de Windows i està integrat a l’ecosistema de Windows.
 -Si t'interessa fer aplicacions .net amb tecnologies de Microsoft, SQL Server s’integra molt bé i ofereix un rendiment òptim.
@@ -9,5 +8,5 @@ Es la opció preferida de alguns degut al bon rendiment i de l’estabilitat del
 Versions de la solució (Community Edition, Enterprise Edition, cloud...)
 En el nostre cas, escollirem o bé la versió Express , ja que és totalment gratuïtes.
 Comparatiu amb altres bases de dades del seu segment.
-````
+
 IMATGE TAULA
