@@ -45,7 +45,7 @@ curl https://packages.microsoft.com/config/ubuntu/22.04/prod.list | sudo tee /et
 ```
 sudo apt-get update
 ```
-
+![comanda9](Imatges/9.jpg)
 ```
 sudo apt-get install -y mssql-tools18 unixodbc-dev
 ```
